@@ -3,11 +3,11 @@ An API that returns quotes from the super-villain Thanos who wants to wipe out h
 <br><br>
 <h3>How to run</h3>
 Simply download this repo and then in the command line within the folder execute 
-<br>
 
 ```
 run thanos.go
 ```
+
 <h3>Endpoints</h3>
 <h5>for a random quote to be generated each time</h5>
 http://localhost:8000/api/thanosapi/v1
@@ -23,7 +23,7 @@ By default the port is set to 8000 on localhost but can be easily changed on lin
 ```go
 http.ListenAndServe(":8000", nil)
 ```
-<h4>Output<h/4>
+<h4>Output</h4>
 The output for the API takes the form of 
 
 ```
