@@ -10,7 +10,7 @@ run thanos.go
 ```
 
 <br>
-Go to [http://localhost/8000/api/thanosapi/v1]
+Go to [http://localhost/8000/api/thanosapi/v1](http://localhost/8000/api/thanosapi/v1)
 <br>
 For a random quote to be generated each time.
 <br>
