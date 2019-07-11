@@ -10,13 +10,9 @@ run thanos.go
 ```
 
 <br>
-Go to [http://localhost/8000/api/thanosapi/v1](http://localhost/8000/api/thanosapi/v1)
+Go to http://localhost:8000/api/thanosapi/v1 for a random quote to be generated each time.
 <br>
-For a random quote to be generated each time.
-<br>
-Alternatively you can go to http://localhost/8000/api/thanosapi/v1/all
-<br>
-To recieve all of the quotes at once.
+Alternatively you can go to http://localhost/8000/api/thanosapi/v1/all to recieve all of the quotes at once.
 <br>
 <h3>Changing variable names</h3>
 <br>
