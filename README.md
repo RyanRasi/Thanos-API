@@ -9,7 +9,6 @@ Simply download this repo and then in the command line execute
 run thanos.go
 ```
 
-<br>
 Go to http://localhost:8000/api/thanosapi/v1 for a random quote to be generated each time.
 <br>
 Alternatively you can go to http://localhost/8000/api/thanosapi/v1/all to recieve all of the quotes at once.
