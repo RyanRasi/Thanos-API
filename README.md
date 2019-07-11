@@ -13,12 +13,10 @@ run thanos.go
 
 http://localhost:8000/api/thanosapi/v1
 
-<br>
 <h5>To recieve all of the quotes at once</h5>
 
 http://localhost/8000/api/thanosapi/v1/all
 
-<br>
 <h3>Changing variable names</h3>
 <br>
 By default the port is set to 8000 on localhost but can be easily changed on line 79.
