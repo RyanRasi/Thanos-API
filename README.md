@@ -1,6 +1,7 @@
 # Thanos-API
 An API that returns quotes from the super-villain Thanos who wants to wipe out half of all life in the universe.
-<br><br>
+<br>
+This is build using GoLang and it was my first ever GoLang project, it seems to be quite a versatile language and it seems to handle a variety of tasks quite well.
 <h3>How to run</h3>
 Simply download this repo and then in the command line within the folder execute 
 
