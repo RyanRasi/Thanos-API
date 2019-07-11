@@ -10,16 +10,16 @@ Simply download this repo and then in the command line within the folder execute
 run thanos.go
 ```
 
-<h3>Endpoints</h3>
-<h5>for a random quote to be generated each time</h5>
+<h2>Endpoints</h2>
+<h4>For a random quote to be generated each time</h4>
 
 http://localhost:8000/api/thanosapi/v1
 
-<h5>To recieve all of the quotes at once</h5>
+<h4>To recieve all of the quotes at once</h4>
 
 http://localhost/8000/api/thanosapi/v1/all
 
-<h3>Changing variable names</h3>
+<h2>Changing variable names</h2>
 <br>
 By default the port is set to 8000 on localhost but can be easily changed on line 79.
 <br>
@@ -27,7 +27,7 @@ By default the port is set to 8000 on localhost but can be easily changed on lin
 ```go
 http.ListenAndServe(":8000", nil)
 ```
-<h4>Output</h4>
+<h2>Output</h2>
 The output for the API takes the form of 
 
 ```
