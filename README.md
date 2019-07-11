@@ -3,7 +3,7 @@ An API that returns quotes from the super-villain Thanos who wants to wipe out h
 <br>
 <br>
 This is built using GoLang and it was my first ever GoLang project, it seems to be quite a versatile language and it seems to handle a variety of tasks quite well.
-<h3>How to run</h3>
+<h2>How to run</h2>
 Simply download this repo and then in the command line within the folder execute 
 
 ```
