@@ -1,5 +1,10 @@
 package main
 
+//Thanos API
+//Created by Ryan Rasi
+//https://github.com/RyanRasi
+//ryanrasi.com
+
 import (
 	"bufio"
 	"fmt"
