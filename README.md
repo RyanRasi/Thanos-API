@@ -35,3 +35,11 @@ All that for a drop of blood.
 ```
 
 This is arguably simplier than using it by parsing JSON. This is also because of the nature of the API being only one line phrases and not requiring any more fields such as the time of retrieval or who is the author of the quote. This also allows for easy parsing due to it's heavily simplistic output.
+<br><br>
+
+#### Donate
+Buy me a coffee to donate if you like
+<br>
+https://www.buymeacoffee.com/uiSK0Ex
+
+<a href="https://www.buymeacoffee.com/uiSK0Ex"><img src="https://static-2.gumroad.com/res/gumroad/9026696959709/asset_previews/09c9bf14407c2a76d088f22121d0b0a9/retina/Screen_20Shot_202017-10-20_20at_2010.09.59.jpg" alt="alt text" width="251.25" height="183.75"></a>
